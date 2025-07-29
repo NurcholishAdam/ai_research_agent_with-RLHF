@@ -1,4 +1,4 @@
-##Integration AI Research Agent with Reinforcement Learning Human Feedback**
+##Integration AI Research Agent with Reinforcement Learning Human Feedback
 
 To aim self-improving research qUality and Alignment wit human judgemet, we making an integration with Reinforcement Learning Human Feedback that optimize this ai research agent capabilities and truly adaptive and continuously improving research intelligence system.
 
